@@ -1,10 +1,11 @@
 def add_up_numbers(a, b):
     c = a + b
-    return c
+    print(c)
 
 def subtract_numbers(a, b):
     d = a - b
-    return b
+    print(b)
+
 
 
 
